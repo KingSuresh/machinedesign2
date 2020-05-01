@@ -1,2 +1,4 @@
 # machinedesign2
-CLASS NOTES 
+CLASS NOTES for unit V
+
+HAVE A :coffee: for refreshment
